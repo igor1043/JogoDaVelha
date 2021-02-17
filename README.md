@@ -4,6 +4,6 @@ Ia para o jogo da velha. Página Desenvolvida para testes.
 
 JavaScript/ CSS /  bootstrap / jquery
 
-## Authors
+## Autor
 
-* **Igor Vincius Freitas de Souza
+* Igor Vincius Freitas de Souza
