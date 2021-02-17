@@ -1,7 +1,7 @@
 /*
-* Author:  Igor Joaquim dos Santos Lima
-* GitHub: https://github.com/igor036
-* E-mail: igorjoaquim.pg@gmail.com
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
 */
 
 var last = null;
